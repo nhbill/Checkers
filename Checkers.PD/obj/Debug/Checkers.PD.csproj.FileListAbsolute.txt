@@ -1,0 +1,6 @@
+C:\Users\schrew\source\repos\Checkers\Checkers.PD\obj\Debug\Checkers.PD.csprojResolveAssemblyReference.cache
+C:\Users\schrew\source\repos\Checkers\Checkers.PD\obj\Debug\Checkers.PD.csproj.CoreCompileInputs.cache
+C:\Users\schrew\source\repos\Checkers\Checkers.PD\bin\Debug\Checkers.PD.dll
+C:\Users\schrew\source\repos\Checkers\Checkers.PD\bin\Debug\Checkers.PD.pdb
+C:\Users\schrew\source\repos\Checkers\Checkers.PD\obj\Debug\Checkers.PD.dll
+C:\Users\schrew\source\repos\Checkers\Checkers.PD\obj\Debug\Checkers.PD.pdb

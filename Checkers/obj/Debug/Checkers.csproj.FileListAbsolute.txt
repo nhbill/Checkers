@@ -1,0 +1,10 @@
+C:\Users\schrew\source\repos\Checkers\Checkers\bin\Debug\Checkers.exe.config
+C:\Users\schrew\source\repos\Checkers\Checkers\bin\Debug\Checkers.exe
+C:\Users\schrew\source\repos\Checkers\Checkers\bin\Debug\Checkers.pdb
+C:\Users\schrew\source\repos\Checkers\Checkers\obj\Debug\Checkers.csprojResolveAssemblyReference.cache
+C:\Users\schrew\source\repos\Checkers\Checkers\obj\Debug\Checkers.csproj.CoreCompileInputs.cache
+C:\Users\schrew\source\repos\Checkers\Checkers\obj\Debug\Checkers.exe
+C:\Users\schrew\source\repos\Checkers\Checkers\obj\Debug\Checkers.pdb
+C:\Users\schrew\source\repos\Checkers\Checkers\bin\Debug\Checkers.PD.dll
+C:\Users\schrew\source\repos\Checkers\Checkers\bin\Debug\Checkers.PD.pdb
+C:\Users\schrew\source\repos\Checkers\Checkers\obj\Debug\Checkers.csproj.CopyComplete
